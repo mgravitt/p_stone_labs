@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import p_stone_labs
+print p_stone_labs.joke()
